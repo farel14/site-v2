@@ -22,8 +22,8 @@
     - thing: AWS
 
 - name: Jalan-Jalan Ngab!
-  url: https://github.com/farel14/jalan-jalan-ngab
-  code: https://github.com/farel14/jalan-jalan-ngab
+  url: https://www.github.com/farel14/jalan-jalan-ngab
+  code: https://www.github.com/farel14/jalan-jalan-ngab
   description: A travel web application for discovering destinations, booking trips, and chatting with fellow travelers.
   used:
     - thing: JavaScript
@@ -34,8 +34,8 @@
     - thing: Bootstrap
 
 - name: Quiz Score Counter Bot for Discord
-  url: https://github.com/farel14/discord-quizbot
-  code: https://github.com/farel14/discord-quizbot
+  url: https://www.github.com/farel14/discord-quizbot
+  code: https://www.github.com/farel14/discord-quizbot
   description: Small quiz score counter bot for Discord, created for fun with friends.
   used:
     - thing: Discord.py
@@ -43,6 +43,8 @@
     - thing: python-dotenv
 
 - name: Auction Web App
+  url: https://www.github.com/farel14
+  code: https://www.github.com/farel14
   description: Auction website created to finished certification short course.
   used:
     - thing: Python
@@ -52,6 +54,8 @@
     - thing: CSS
 
 - name: Hearthstone New Expansion Hype Analysis
+  url: https://www.github.com/farel14
+  code: https://www.github.com/farel14
   description: Hype analysis for Hearthstone video game new expansion, gathered using Twitter API and analized using python to finished certification short course.
   used:
     - thing: Python
