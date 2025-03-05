@@ -1,6 +1,6 @@
 # v3
 
-Third iteration of my personal website built with Jekyll.
+Second iteration of my personal website forked from https://bchiang7.github.io/.
 
 > 📢 **PSA for those who want to fork or copy this repo and use it for their own site:**
 >
