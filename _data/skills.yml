@@ -1,33 +1,29 @@
 languages:
   - item: JavaScript (ES6)
   - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
+  - item: HTML + CSS
   - item: Python
   - item: SQL
-  - item: R
+  - item: NoSQL
 
 frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
+  - item: NestJS
+  - item: Django
+  - item: Vue.js
   - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+  - item: React
+  - item: React Native
 
 tools:
   - item: Bash
   - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
+  - item: Docker
   - item: Postman
   - item: MongoDB
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+geophysics:
+  - item: Paradigm Software 
+  - item: Well-seismic Tie
+  - item: Seismic interpretation
+  - item: Multi-attribute analysis
+  - item: GIS
