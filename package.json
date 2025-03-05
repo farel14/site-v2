@@ -1,5 +1,5 @@
 {
-  "name": "brittanychiang.com",
+  "name": "farelreyhananda.com",
   "version": "0.0.0",
   "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
   "repository": {
@@ -12,7 +12,7 @@
     "start": "gulp serve --watch",
     "build": "gulp build"
   },
-  "author": "Brittany Chiang",
+  "author": "Farel Reyhananda Nugraha",
   "license": "ISC",
   "devDependencies": {
     "@nuscout/eslint-config": "^0.2.1",
